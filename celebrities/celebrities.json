@@ -3,25 +3,32 @@
     "name": "Akshay Kumar",
     "slug": "akshay-kumar",
     "profession": "Actor",
-    "image": "https://github.com/Sumanradhadas/fan-ai-celebs/blob/main/celebrities/akshay-kumar.jpg"
+    "image": "/api/github/celebrity-image/akshay-kumar",
+    "description": "Bollywood actor and producer",
+    "category": "actor"
   },
   {
     "name": "Jiya Shankar",
     "slug": "jiya-shankar",
     "profession": "Actress",
-    "image": "https://raw.githubusercontent.com/Sumanradhadas/fan-ai-celebs/main/celebrities/jiya-shankar.jpg"
+    "image": "/api/github/celebrity-image/jiya-shankar",
+    "description": "Television and film actress",
+    "category": "actor"
   },
   {
     "name": "Narendra Modi",
     "slug": "narendra-modi",
-    "profession": "Politician",
-    "image": "https://raw.githubusercontent.com/Sumanradhadas/fan-ai-celebs/main/celebrities/narendra-modi.jpg"
+    "profession": "Prime Minister",
+    "image": "/api/github/celebrity-image/narendra-modi",
+    "description": "Prime Minister of India",
+    "category": "politician"
   },
   {
     "name": "Srinidhi Shetty",
     "slug": "srinidhi-shetty",
-    "profession": "Actress",
-    "image": "https://raw.githubusercontent.com/Sumanradhadas/fan-ai-celebs/main/celebrities/srinidhi-shetty.jpg"
+    "profession": "Actress & Model",
+    "image": "/api/github/celebrity-image/srinidhi-shetty",
+    "description": "Indian actress and model",
+    "category": "actor"
   }
 ]
-
