@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Akshay Kumar",
+    "slug": "akshay-kumar",
+    "profession": "Actor",
+    "image": "https://raw.githubusercontent.com/<your-username>/<repo>/main/celebrities/akshay-kumar.jpg"
+  },
+  {
+    "name": "Jiya Shankar",
+    "slug": "jiya-shankar",
+    "profession": "Actress",
+    "image": "https://raw.githubusercontent.com/<your-username>/<repo>/main/celebrities/jiya-shankar.jpg"
+  },
+  {
+    "name": "Narendra Modi",
+    "slug": "narendra-modi",
+    "profession": "Politician",
+    "image": "https://raw.githubusercontent.com/<your-username>/<repo>/main/celebrities/narendra-modi.jpg"
+  },
+  {
+    "name": "Srinidhi Shetty",
+    "slug": "srinidhi-shetty",
+    "profession": "Actress",
+    "image": "https://raw.githubusercontent.com/<your-username>/<repo>/main/celebrities/srinidhi-shetty.jpg"
+  }
+]
