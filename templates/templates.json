@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Diwali Celebration",
+    "slug": "diwali-celebration",
+    "prompt": "Diwali festival scene with traditional decorations...",
+    "description": "Perfect for Diwali greetings",
+    "category": "festival",
+    "tags": ["diwali", "festival", "celebration"],
+    "previewUrl": "https://example.com/sample.jpg",
+    "isFree": false,
+    "isActive": true
+  }
+]
